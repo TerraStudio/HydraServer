@@ -55,14 +55,14 @@ public class Main implements ClientListener {
 
 
 ######Classes
-Currently there are three server classes:
+Currently there are two server classes:
 
 | Class                          | Explanation                                                           |
 | ------------------------------ | --------------------------------------------------------------------- |
 | Server                         | the main server class which starts the server                         |
 | Connection                     | the connection class handles the connections of the server            |
 
-and three client classes:
+and one client class:
 
 | Class                          | Explanation                                                           |
 | ------------------------------ | --------------------------------------------------------------------- |
