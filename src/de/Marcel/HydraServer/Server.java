@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.ArrayList;
 
 /*
- * author - marcelfranzen
+ * author - marcelfranzen test
  */
 public class Server {
 	private int port;
